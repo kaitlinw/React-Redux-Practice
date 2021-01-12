@@ -1,3 +1,7 @@
+A random app to practice my frontend. Building a website for a local cafe!!
+
+Site URL: https://react-redux-practice-3n60w2ssp.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
